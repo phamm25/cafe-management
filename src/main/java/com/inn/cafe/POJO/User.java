@@ -14,6 +14,8 @@ import java.io.Serializable;
 @DynamicUpdate
 @DynamicInsert
 @Table(name = "User")
-
+/**
+ * class user
+ */
 public class User implements Serializable {
 }
